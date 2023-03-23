@@ -1,8 +1,6 @@
 # Fake New Validator
 
-Test Assignment for Chase UK SDET role
-
-This repository contains one java project: Chase-Test
+This repository contains one java project: Fake News 
 
 The repository is organized into below folders under the *test* folder:
 
